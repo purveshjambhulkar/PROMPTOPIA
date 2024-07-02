@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia: Unlock Your AI Creativity
 
-## Getting Started
+Promptopia is an open-source platform designed to empower creators and experimenters with the power of AI prompts. Discover, create, and share creative prompts for various AI models, fostering a vibrant community of innovation.
 
-First, run the development server:
+## Project Description
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Promptopia provides a collaborative hub for users to:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Explore a vast library of AI prompts:** Find prompts for different AI models and purposes, categorized for easy navigation.
+- **Contribute your own prompts:** Share your unique prompts with the community and help others unlock their creative potential.
+- **Collaborate and discuss:** Engage in discussions about prompts, share feedback, and refine techniques for optimal results.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Technologies
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Promptopia leverages a powerful tech stack to deliver a seamless user experience:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Frontend:** Next.js (React framework) for a dynamic and performant user interface.
+- **Backend:** MERN (MongoDB, Express, React, Node.js) for efficient data management and server-side logic.
+- **Authentication:** Google OAuth for secure user login and account management.
