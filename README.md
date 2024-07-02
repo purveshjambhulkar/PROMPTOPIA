@@ -8,7 +8,6 @@ Promptopia provides a collaborative hub for users to:
 
 - **Explore a vast library of AI prompts:** Find prompts for different AI models and purposes, categorized for easy navigation.
 - **Contribute your own prompts:** Share your unique prompts with the community and help others unlock their creative potential.
-- **Collaborate and discuss:** Engage in discussions about prompts, share feedback, and refine techniques for optimal results.
 
 ## Technologies
 
